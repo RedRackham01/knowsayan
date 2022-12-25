@@ -215,8 +215,7 @@ input, select, textarea {
 		background: #000000 url("images/bg.jpg");
 		background-repeat: no-repeat;
 		opacity: 1;
-		background-size: cover;
-		background-position: center;
+		background-size: 6000px 3375px;
 	}
 
 /* Main */
@@ -594,8 +593,7 @@ input, select, textarea {
 		/* BG */
 
 		#bg {
-			background-size: cover;
-			background-position: center;
+			background-size: 6000px 3375px;
 		} }
 
 /* Normal */
@@ -612,8 +610,7 @@ input, select, textarea {
 
 
 		#bg {
-			background-size: cover;
-			background-position: center;
+			background-size: 6000px 3375px;
 		} }
 
 /* Mobile */
@@ -634,8 +631,7 @@ input, select, textarea {
 
 
 		#bg {
-			background-size: cover;
-			background-position: center;
+			background-size: 6000px 3375px;
 		}
 
 	/* Header */
@@ -669,8 +665,7 @@ input, select, textarea {
 			
 
 		#bg {
-			background-size: cover;
-			background-position: center;
+			background-size: 6000px 3375px;
 		}
 
 	/* Header */
