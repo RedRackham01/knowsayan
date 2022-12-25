@@ -221,7 +221,7 @@ input, select, textarea {
 		top: 0;
 	}
 	#bg {
-		background-size: 2250px auto;
+		background-size: cover;
 		width: 6750px;
 	}
 
