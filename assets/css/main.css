@@ -212,7 +212,7 @@ input, select, textarea {
 	/* BG */
 	#bg {
 		/* Set your background with this */
-		background: #348cb2 url("images/bg.jpg") centered;
+		background: #000000 url("images/bg.jpg") centered;
 		background-repeat: no-repeat;
 		height: 100%;
 		left: 0;
@@ -221,7 +221,7 @@ input, select, textarea {
 		top: 0;
 	}
 	#bg {
-		background-size: auto;
+		background-size: 100%;
 		width: auto;
 	}
 
