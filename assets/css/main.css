@@ -209,6 +209,18 @@ input, select, textarea {
 		width: 100%;
 	}
 
+/*BG*/
+#bg {
+	/* Set your background with this */
+		background: #348cb2 url("images/bg.jpg") bottom left;
+		height: 100%;
+		left: 0;
+		opacity: 1;
+		position: fixed;
+		top: 0;
+	}
+
+
 
 /* Main */
 
