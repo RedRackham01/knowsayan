@@ -214,15 +214,8 @@ input, select, textarea {
 		/* Set your background with this */
 		background: #000000 url("images/bg.jpg") bottom left;
 		background-repeat: no-repeat;
-		height: 100%;
-		left: 0;
 		opacity: 1;
-		position: fixed;
-		top: 0;
-	}
-	#bg {
 		background-size: cover;
-		width: auto;
 	}
 
 /* Main */
