@@ -215,7 +215,9 @@ input, select, textarea {
 		background: #000000 url("images/bg.jpg");
 		background-repeat: no-repeat;
 		opacity: 1;
-		background-size: 6000px 3375px;
+		background-size: cover;
+		width : 6000px;
+		height 3375px;
 	}
 
 /* Main */
@@ -593,7 +595,9 @@ input, select, textarea {
 		/* BG */
 
 		#bg {
-			background-size: 6000px 3375px;
+			background-size: cover;
+			width : 6000px;
+			height 3375px;
 		} }
 
 /* Normal */
@@ -610,7 +614,9 @@ input, select, textarea {
 
 
 		#bg {
-			background-size: 6000px 3375px;
+			background-size: cover;
+			width : 6000px;
+			height 3375px;
 		} }
 
 /* Mobile */
