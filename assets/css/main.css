@@ -212,10 +212,11 @@ input, select, textarea {
 	/* BG */
 	#bg {
 		/* Set your background with this */
-		background: #000000 url("images/bg.jpg") bottom left;
+		background: #000000 url("images/bg.jpg");
 		background-repeat: no-repeat;
 		opacity: 1;
 		background-size: cover;
+		background-position: center;
 	}
 
 /* Main */
@@ -594,7 +595,7 @@ input, select, textarea {
 
 		#bg {
 			background-size: cover;
-			width: 4500px;
+			background-position: center;
 		} }
 
 /* Normal */
@@ -612,7 +613,7 @@ input, select, textarea {
 
 		#bg {
 			background-size: cover;
-			width: auto;
+			background-position: center;
 		} }
 
 /* Mobile */
@@ -634,6 +635,7 @@ input, select, textarea {
 
 		#bg {
 			background-size: cover;
+			background-position: center;
 		}
 
 	/* Header */
@@ -668,6 +670,7 @@ input, select, textarea {
 
 		#bg {
 			background-size: cover;
+			background-position: center;
 		}
 
 	/* Header */
